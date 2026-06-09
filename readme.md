@@ -1,26 +1,36 @@
-## Articles Libraries:
+# Computer Vision-Based Retrieval System
 
-ACMDL & IEEE Xplore & SCOPUS.
+Undergraduate Thesis developed as part of the B.Sc. in Computer Science.
 
-## Questões:
+A content-based image retrieval system capable of identifying and retrieving visually similar personal objects from a user-defined collection using computer vision techniques.
 
-* Quais os metodos mais utilizados/eficientes para a extração dos descritores e metadados das imagens?
-* Quais as tecnologias de armazenamento são usadas para comportar essas informações?
-* Quais são as informações comumente agregadas aos descritores como metadados?
+## Overview
 
-## Search String:
+The system extracts visual features from images and compares them against a reference database to identify and retrieve matching or visually similar objects.
 
-"image" AND "based" AND "indoor"  AND  "objects"  AND  ( "retrieval"  OR  "location")
+Applications include:
 
-## Inclusion:
+- Personal item organization
+- Visual search
+- Object retrieval
+- Content-based image retrieval (CBIR)
 
-* Trabalhos que propoem o uso de imagens para localizar objetos perdidos ou guardados ou catalogados.
-* Tabalhos que apresentem estratégias de extração de descritores e metadados de imagens de forma eficiente.
+## Features
 
-## Exclusion:
+- Image feature extraction
+- Similarity-based retrieval
+- Object matching
+- Visual database search
+- Ranking of similar items
 
-* Trabalho que não esteja disponível para download, de forma gratuita, através de bases de dados acessíveis pela Universidade Federal do Pampa (UNIPAMPA);
-* Trabalho referente a localização e rastreamento de pessoas;
-* Trabalho que não está escrito em português ou inglês;
-* Trabalho com menos de quatro paginas.
-* Anais completos de eventos.
+## Technologies
+
+- Java
+- Computer Vision
+- Feature Extraction
+- Image Processing
+- Similarity Search
+
+## Academic Context
+
+This project was developed as my undergraduate thesis in Computer Science and represents my first research project in the areas of Computer Vision and Intelligent Systems.
